@@ -1,0 +1,4 @@
+interface Pagamento {
+
+    void calcularSalario();
+}
